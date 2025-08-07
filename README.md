@@ -4,7 +4,7 @@
 
 A locally-run emotional intelligence AI model designed to provide empathetic, emotionally-aware responses with natural conversation flow.
 
-## 🚀 Features
+## Features
 
 - **Emotional Intelligence**: Designed to provide empathetic, understanding responses
 - **Local Operation**: Runs completely locally without external dependencies
@@ -13,7 +13,7 @@ A locally-run emotional intelligence AI model designed to provide empathetic, em
 - **Easy Integration**: Simple API for quick integration
 - **Flexible Configuration**: Customizable generation parameters
 
-## 📦 Installation
+## Installation
 
 ### Prerequisites
 
@@ -44,7 +44,7 @@ To use the actual Llama 3.2 3B model:
 - `microsoft/DialoGPT-small` (faster, smaller)
 - `HuggingFaceTB/SmolLM3-3B` (3B parameter model)
 
-## 🎯 Quick Start
+## Quick Start
 
 ### Basic Usage
 
@@ -167,7 +167,7 @@ for message in messages:
     responses.append(response)
 ```
 
-## 🎯 Training
+## Training
 
 ### Fine-tune for Emotional Intelligence
 
@@ -191,7 +191,7 @@ The model is fine-tuned on emotional intelligence scenarios:
 - Gratitude and appreciation
 - Overwhelm and responsibility management
 
-## 🏗️ Architecture
+## Architecture
 
 Brello EI 0 is built on advanced language model architecture with the following key components:
 
@@ -201,7 +201,7 @@ Brello EI 0 is built on advanced language model architecture with the following 
 - **Post-processing**: Response cleaning and enhancement
 - **Quantization**: 4-bit for memory efficiency (optional)
 
-## 🎯 Use Cases
+## Use Cases
 
 ### Emotional Support
 - Providing empathetic responses to stress and anxiety
@@ -218,15 +218,15 @@ Brello EI 0 is built on advanced language model architecture with the following 
 - Emotional validation and understanding
 - Positive reinforcement and encouragement
 
-## 🤝 Contributing
+## Contributing
 
 This model is part of the Epic Systems AI initiative. For questions or contributions, please contact the development team.
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **Epic Systems** for the vision and support
 - **Rehan Temkar** for engineering and development
